@@ -1,0 +1,6 @@
+{
+  "name": "UNIHIKER K10 Studio",
+  "description": "ESP32-S3 Web Flasher, Interactive Serial REPL, MicroPython Code Editor, and RGB565 Display Asset Pipeline for UNIHIKER K10.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
